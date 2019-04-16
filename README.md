@@ -1,4 +1,4 @@
-# Big-Mart-Sales-Prediction <br/>
+# Sales Prediction of a Supermarket chain <br/>
 
 ## About the Company <br/>
 The Big Mart is an e-commerce and a supermarket chain, wants to improve the sales of the company by deploying a predictive model. 
